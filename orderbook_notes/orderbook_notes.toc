@@ -1,0 +1,5 @@
+\contentsline {section}{\tocsection {}{1}{Preliminaries}}{1}{section.1}
+\contentsline {section}{\tocsection {}{4}{Neural Network Architectures for Modeling Distributions on $\mathbb {R}^d$}}{2}{section.4}
+\contentsline {subsection}{\tocsubsection {}{4.1}{Straightforward application to allow generalization}}{2}{subsection.4.1}
+\contentsline {subsection}{\tocsubsection {}{4.3}{A computationally efficient architecture for modeling spatial distributions}}{2}{subsection.4.3}
+\contentsline {subsubsection}{\tocsubsubsection {}{4.3.1}{Extension to $\mathcal {R}^d$}}{2}{subsubsection.4.3.1}
